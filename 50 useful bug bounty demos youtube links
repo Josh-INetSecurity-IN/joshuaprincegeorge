@@ -1,0 +1,93 @@
+Introduction
+
+1.  Course Introduction                     ok   https://youtu.be/daxuH8FyanE 
+2.  Dedicated website portal overview       ok   https://youtu.be/QgpC68bI1u4 
+3.  Basic Ethical Hacking Terminologies     ok   https://youtu.be/P146mzP3jRs
+4.  installing Kali Linux in Virtual Box    ok   https://youtu.be/QSVJ9f7AQGU
+5.  bootable kali linux in usb              ok   https://youtu.be/ZOINZ96guuk
+6.  Learning to compile  languages          ok   https://youtu.be/CYIBOUl7_XA 
+7.  server and client concept               ok   https://youtu.be/NV-Pel6Uocc 
+8.  creating your first php program         ok   https://youtu.be/2rEEUyoIV58
+9.  burpsuite intro                         ok   https://youtu.be/-0Gp0nYFe50 
+
+
+XSS ATTACKS
+
+10.  xss dom                                ok   https://youtu.be/xBPHwQScG1Y    
+11. xss reflected                           ok   https://youtu.be/pV8u493VUsY 
+12. xss stored                              ok   https://youtu.be/c4eTRrvO1sA
+
+Browser Exploitation
+
+13. xss + beef = android                    ok   https://youtu.be/uVtxe1lWtME
+14. beef redirection                        ok   https://youtu.be/R-047-nsfCA 
+15. beef windows password                   ok   https://youtu.be/wvvLwcGij8g
+
+WiFi Attacks
+
+16. wifi - inssider                         ok   https://youtu.be/WpKrss1aa-o
+17. wpa cracking with aircrack ng           ok   https://youtu.be/kMDMQVXD4qA  
+18. wep cracking with aircrack ng           ok   https://youtu.be/jTrO73sufqQ
+19. wpa cracking with fern cracker          ok   https://youtu.be/aaTwBT2y3GE
+20. fake accesspoint                        ok   https://youtu.be/QzHZoO1oqgU
+
+SQL INJECTION
+
+21. sql injection manual                    ok   https://youtu.be/18ntYjmBJ2I 
+22. sql injection automated                 ok   https://youtu.be/ry5FxKgS2LA 
+23. sql injection basics                    ok   https://youtu.be/1BPpbLTSD7k
+24. SQL injection step bystep               ok   https://youtu.be/BlkQWF1X0-o
+
+Web Attacks
+
+25. csrf                                    ok   https://youtu.be/azu3VM_WLdI 
+26. Password Crcking Ideas                  ok   https://youtu.be/pOisV0GVu3s 
+27. bruteforce                              ok   https://youtu.be/_ZoUMvHmLQY 
+
+Network Attacks
+
+28. nmap                                    ok   https://youtu.be/njwg6OaHa9c   
+29. zenmap                                  ok   https://youtu.be/cwEN9_1pc7s 
+30. information gathering ip scanner        ok   https://youtu.be/_7FlH7dNDdc 
+
+Information Gathering 
+
+31. info gathering browser tools            ok   https://youtu.be/T8F5tAGD2mk
+32. information gathering website           ok   https://youtu.be/6na7scaQ3Z8 
+33. website recon                           ok   https://youtu.be/M9t7WAljsjA 
+
+
+Phishing Attacks
+
+34. humenerror phishing                     ok   https://youtu.be/HmAwheqpoKg
+35. hacking social media passwords -blackeyeOk   https://youtu.be/a4wQvtlZy4s 
+
+System Takeover
+
+36. Android phone takeover                  ok   https://youtu.be/N1DJjZqswCU
+37. windows system takeover                 ok   https://youtu.be/oPpGwJp7iaE       
+
+Man in the middle
+
+38. cain and abel , arp poisoning           ok   https://youtu.be/UHvVr0yEiuk 
+39. sniffing                                ok   https://youtu.be/ManZBwZ51yk
+
+Dos
+
+40. dos- basic windows aftermath            ok   https://youtu.be/n9vSzddCxGw 
+41. dos- website service                    ok   https://youtu.be/uJBAluav3LU
+
+Person Information gathering
+
+42. information gathering email             ok   https://youtu.be/TcVmrJr2fRE
+43. person info gathering tools             ok   https://youtu.be/ri-9EmsM3os
+44. ngrok installation in kali              ok   https://youtu.be/CowQr3P8zAo
+45. Lurking a person                        ok   https://youtu.be/k_XGssebs1E
+
+
+46. reverse-engineering                     ok   https://youtu.be/q8VG4Dt-RR4
+47. Anonymizing your computer               ok   https://youtu.be/mSYSG6gDrBk 
+48. Defacing a wesite                       ok   https://youtu.be/Ioto_fHSR_E
+49. Command injection attack                ok   https://youtu.be/N8sQim0A9fM 
+50. cryptography                            ok   https://youtu.be/YYfoMnYTTWE
+51. steganography                           ok   https://youtu.be/e4Dm34dIUbg 
